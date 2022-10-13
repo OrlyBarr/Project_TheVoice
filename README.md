@@ -21,6 +21,6 @@ OLTP Database analysis according to the business requirements
  * Tabular Model development including calculated columns and measures (DAX).
  * Creating dashboards visualization based on the DWH for analyzing. 
 
-# Power BI report
+
 
 
