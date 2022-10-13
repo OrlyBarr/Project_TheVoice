@@ -1,4 +1,5 @@
 # Project_TheVoice
+BI End to End Decision Support System for a mobile company.
 
 #	Technical details:
 * SQL Server Database Engine
